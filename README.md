@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wsscottca
-- 👀 I’m interested in becoming a software engineer!
-- 🌱 I’m currently pursing my computer science degree, while working to build my porfolio!
-- 📫 How to reach me: wsscottca@gmail.com
+- 👀 I’m working to become a software engineer!
+- 🌱 Graduating December 2022 with a degree in Software Development, while working to build my porfolio!
+- 📫 How to reach me: wsscottca@gmail.com or +19163055928
