@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wsscottca
 - 👀 I’m working to become a software engineer!
-- 🌱 Graduating December 2022 with a degree in Software Development, while working to build my porfolio!
+- 🌱 Graduating January 2023 with a degree in Software Development, while working to build my porfolio!
 - 📫 How to reach me: wsscottca@gmail.com or +19163055928
