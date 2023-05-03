@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wsscottca
 - 👀 I’m working to become a software engineer!
-- 🌱 Graduating January 2023 with a degree in Software Development, while working to build my porfolio!
+- 🌱 Graduated Feburary 2023 with a Bachelors in Software Development! Accepted into Georgia Tech OMSCS starting Fall 2023.
 - 📫 How to reach me: wsscottca@gmail.com or +19163055928
